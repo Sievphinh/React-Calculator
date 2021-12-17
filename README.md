@@ -1,2 +1,2 @@
-## Get start
+## Get started
 run `npm install` && `npm start`
